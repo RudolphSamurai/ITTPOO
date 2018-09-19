@@ -1,0 +1,7 @@
+C:\Users\admin-jm\Documents\ITT\POO\ITTPOO\Ejercicio1\PrimeraClase\Ejercicio_POO1\bin\Debug\Ejercicio_POO1.exe.config
+C:\Users\admin-jm\Documents\ITT\POO\ITTPOO\Ejercicio1\PrimeraClase\Ejercicio_POO1\bin\Debug\Ejercicio_POO1.exe
+C:\Users\admin-jm\Documents\ITT\POO\ITTPOO\Ejercicio1\PrimeraClase\Ejercicio_POO1\bin\Debug\Ejercicio_POO1.pdb
+C:\Users\admin-jm\Documents\ITT\POO\ITTPOO\Ejercicio1\PrimeraClase\Ejercicio_POO1\obj\Debug\Ejercicio_POO1.csprojAssemblyReference.cache
+C:\Users\admin-jm\Documents\ITT\POO\ITTPOO\Ejercicio1\PrimeraClase\Ejercicio_POO1\obj\Debug\Ejercicio_POO1.csproj.CoreCompileInputs.cache
+C:\Users\admin-jm\Documents\ITT\POO\ITTPOO\Ejercicio1\PrimeraClase\Ejercicio_POO1\obj\Debug\Ejercicio_POO1.exe
+C:\Users\admin-jm\Documents\ITT\POO\ITTPOO\Ejercicio1\PrimeraClase\Ejercicio_POO1\obj\Debug\Ejercicio_POO1.pdb
