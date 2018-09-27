@@ -41,7 +41,7 @@
             // 
             // ButtonCrear
             // 
-            this.ButtonCrear.Location = new System.Drawing.Point(636, 80);
+            this.ButtonCrear.Location = new System.Drawing.Point(633, 36);
             this.ButtonCrear.Name = "ButtonCrear";
             this.ButtonCrear.Size = new System.Drawing.Size(103, 23);
             this.ButtonCrear.TabIndex = 0;
@@ -51,7 +51,7 @@
             // 
             // ButtonLimpiar
             // 
-            this.ButtonLimpiar.Location = new System.Drawing.Point(636, 134);
+            this.ButtonLimpiar.Location = new System.Drawing.Point(633, 90);
             this.ButtonLimpiar.Name = "ButtonLimpiar";
             this.ButtonLimpiar.Size = new System.Drawing.Size(103, 23);
             this.ButtonLimpiar.TabIndex = 1;
@@ -61,7 +61,7 @@
             // 
             // ButtonMover
             // 
-            this.ButtonMover.Location = new System.Drawing.Point(636, 184);
+            this.ButtonMover.Location = new System.Drawing.Point(633, 140);
             this.ButtonMover.Name = "ButtonMover";
             this.ButtonMover.Size = new System.Drawing.Size(103, 23);
             this.ButtonMover.TabIndex = 2;
@@ -79,14 +79,14 @@
             // 
             // TextBoxX
             // 
-            this.TextBoxX.Location = new System.Drawing.Point(636, 255);
+            this.TextBoxX.Location = new System.Drawing.Point(633, 192);
             this.TextBoxX.Name = "TextBoxX";
             this.TextBoxX.Size = new System.Drawing.Size(100, 20);
             this.TextBoxX.TabIndex = 3;
             // 
             // TextBoxY
             // 
-            this.TextBoxY.Location = new System.Drawing.Point(636, 294);
+            this.TextBoxY.Location = new System.Drawing.Point(633, 231);
             this.TextBoxY.Name = "TextBoxY";
             this.TextBoxY.Size = new System.Drawing.Size(100, 20);
             this.TextBoxY.TabIndex = 4;
@@ -94,7 +94,7 @@
             // LabelX
             // 
             this.LabelX.AutoSize = true;
-            this.LabelX.Location = new System.Drawing.Point(580, 261);
+            this.LabelX.Location = new System.Drawing.Point(577, 198);
             this.LabelX.Name = "LabelX";
             this.LabelX.Size = new System.Drawing.Size(14, 13);
             this.LabelX.TabIndex = 6;
@@ -103,7 +103,7 @@
             // LabelY
             // 
             this.LabelY.AutoSize = true;
-            this.LabelY.Location = new System.Drawing.Point(583, 306);
+            this.LabelY.Location = new System.Drawing.Point(580, 243);
             this.LabelY.Name = "LabelY";
             this.LabelY.Size = new System.Drawing.Size(14, 13);
             this.LabelY.TabIndex = 7;
@@ -124,6 +124,7 @@
             this.Controls.Add(this.ButtonCrear);
             this.Name = "FormPizarra";
             this.Text = "Crear Globo";
+            this.Load += new System.EventHandler(this.FormPizarra_Load);
             ((System.ComponentModel.ISupportInitialize)(this.PictureBoxPizarra)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

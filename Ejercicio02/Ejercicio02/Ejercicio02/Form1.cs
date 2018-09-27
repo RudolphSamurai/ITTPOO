@@ -12,9 +12,12 @@ namespace Ejercicio02
 {
     public partial class FormPizarra : Form
     {
+        Graphics papel;
         public FormPizarra()
         {
             InitializeComponent();
+            
+            papel = PictureBoxPizarra.CreateGraphics();
         }
 
         private void ButtonCrear_Click(object sender, EventArgs e)
@@ -36,8 +39,7 @@ namespace Ejercicio02
 
         private void HacerGlobo(int x, int y)
         {
-            Graphics papel;
-            papel = PictureBoxPizarra.CreateGraphics();
+
             Pen lapiz = new Pen(Color.DarkBlue);
 
             papel.DrawRectangle(lapiz, x, 30, y, 50);
@@ -49,6 +51,11 @@ namespace Ejercicio02
             TextBoxY.Clear();
             TextBoxX.Focus();
             PictureBoxPizarra.Image = null;
+        }
+
+        private void FormPizarra_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
