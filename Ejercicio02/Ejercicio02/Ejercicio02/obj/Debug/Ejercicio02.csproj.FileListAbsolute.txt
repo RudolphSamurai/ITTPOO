@@ -1,0 +1,10 @@
+C:\Users\admin-jm\Documents\ITT\POO\ITTPOO\Ejercicio02\Ejercicio02\Ejercicio02\bin\Debug\Ejercicio02.exe.config
+C:\Users\admin-jm\Documents\ITT\POO\ITTPOO\Ejercicio02\Ejercicio02\Ejercicio02\bin\Debug\Ejercicio02.exe
+C:\Users\admin-jm\Documents\ITT\POO\ITTPOO\Ejercicio02\Ejercicio02\Ejercicio02\bin\Debug\Ejercicio02.pdb
+C:\Users\admin-jm\Documents\ITT\POO\ITTPOO\Ejercicio02\Ejercicio02\Ejercicio02\obj\Debug\Ejercicio02.csprojAssemblyReference.cache
+C:\Users\admin-jm\Documents\ITT\POO\ITTPOO\Ejercicio02\Ejercicio02\Ejercicio02\obj\Debug\Ejercicio02.FormPizarra.resources
+C:\Users\admin-jm\Documents\ITT\POO\ITTPOO\Ejercicio02\Ejercicio02\Ejercicio02\obj\Debug\Ejercicio02.Properties.Resources.resources
+C:\Users\admin-jm\Documents\ITT\POO\ITTPOO\Ejercicio02\Ejercicio02\Ejercicio02\obj\Debug\Ejercicio02.csproj.GenerateResource.cache
+C:\Users\admin-jm\Documents\ITT\POO\ITTPOO\Ejercicio02\Ejercicio02\Ejercicio02\obj\Debug\Ejercicio02.csproj.CoreCompileInputs.cache
+C:\Users\admin-jm\Documents\ITT\POO\ITTPOO\Ejercicio02\Ejercicio02\Ejercicio02\obj\Debug\Ejercicio02.exe
+C:\Users\admin-jm\Documents\ITT\POO\ITTPOO\Ejercicio02\Ejercicio02\Ejercicio02\obj\Debug\Ejercicio02.pdb
