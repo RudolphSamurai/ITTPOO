@@ -1,0 +1,10 @@
+C:\Users\admin-jm\Documents\ITT\POO\ITTPOO\Ejercicio04\Ejercicio04\Ejercicio04\bin\Debug\Ejercicio04.exe.config
+C:\Users\admin-jm\Documents\ITT\POO\ITTPOO\Ejercicio04\Ejercicio04\Ejercicio04\bin\Debug\Ejercicio04.exe
+C:\Users\admin-jm\Documents\ITT\POO\ITTPOO\Ejercicio04\Ejercicio04\Ejercicio04\bin\Debug\Ejercicio04.pdb
+C:\Users\admin-jm\Documents\ITT\POO\ITTPOO\Ejercicio04\Ejercicio04\Ejercicio04\obj\Debug\Ejercicio04.csprojAssemblyReference.cache
+C:\Users\admin-jm\Documents\ITT\POO\ITTPOO\Ejercicio04\Ejercicio04\Ejercicio04\obj\Debug\Ejercicio04.Form1.resources
+C:\Users\admin-jm\Documents\ITT\POO\ITTPOO\Ejercicio04\Ejercicio04\Ejercicio04\obj\Debug\Ejercicio04.Properties.Resources.resources
+C:\Users\admin-jm\Documents\ITT\POO\ITTPOO\Ejercicio04\Ejercicio04\Ejercicio04\obj\Debug\Ejercicio04.csproj.GenerateResource.cache
+C:\Users\admin-jm\Documents\ITT\POO\ITTPOO\Ejercicio04\Ejercicio04\Ejercicio04\obj\Debug\Ejercicio04.csproj.CoreCompileInputs.cache
+C:\Users\admin-jm\Documents\ITT\POO\ITTPOO\Ejercicio04\Ejercicio04\Ejercicio04\obj\Debug\Ejercicio04.exe
+C:\Users\admin-jm\Documents\ITT\POO\ITTPOO\Ejercicio04\Ejercicio04\Ejercicio04\obj\Debug\Ejercicio04.pdb
